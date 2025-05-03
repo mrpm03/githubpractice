@@ -1,0 +1,7 @@
+a="goole.com"
+b={}
+for i in a:
+    keys = b.keys()
+    if i in keys:
+        b[i]
+    a.split()
