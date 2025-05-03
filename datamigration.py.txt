@@ -1,2 +1,4 @@
 def datamigration():
     print("Hello")
+datacalling = datamigration()
+return datacalling()
